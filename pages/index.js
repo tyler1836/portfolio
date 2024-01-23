@@ -26,7 +26,6 @@ export default function Home() {
           <li onClick={() => setNav('About')}>About</li>
           <li onClick={() => setNav('Contact')}>Contact</li>
           <li onClick={() => setNav('Projects')}>Projects</li>
-          <li onClick={() => setNav('Web3')}>Web3</li>
         </ul>
       </nav>
       <div className={styles.hero}>
