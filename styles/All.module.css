@@ -33,7 +33,7 @@
 }
 
 .hero {
-  background: "../public/3000.svg";
+  background: url("/3000.svg");
   background-size: cover;
   aspect-ratio: 1440/540;
   display: flex;
